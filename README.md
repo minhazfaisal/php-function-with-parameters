@@ -4,8 +4,6 @@ function-with-parameters
 
         echo "<h1> Function with parameters</h1>";
 
-        echo "<p>  </p>";
-
         //function with parameters
         function grettings(){
             echo "<h4> Hello </h4>";
