@@ -43,5 +43,15 @@ function-with-parameters - https://minhazfaisal.github.io/php-function-with-para
             echo "<h4> Hello, " . $name2 . "!</h4>";
         }
         grettings6("Minhaz");
+
+        function greetings7($name){
+            echo "<h4> Hello $name </h4>";
+        }
+        greetings7("Minhaz");
+
+        $greetings8 = function($name = "world"){
+            echo "<h4> Hello $name </h4>";
+        };
+        $greetings8();
         
 ?>
