@@ -1,5 +1,5 @@
 # function-with-parameters
-function-with-parameters
+function-with-parameters - https://minhazfaisal.github.io/php-function-with-parameters/
 <?php
 
         echo "<h1> Function with parameters</h1>";
